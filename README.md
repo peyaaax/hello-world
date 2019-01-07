@@ -1,2 +1,6 @@
 # hello-world
-first repository
+
+
+Hi!
+
+Peyaaax here, I would like to learn how to code.
